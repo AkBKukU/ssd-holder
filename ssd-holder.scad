@@ -1,11 +1,11 @@
 $fn=72;
 ssd_w=72;
 ssd_d=100;
-ssd_h=9;
-ssd_space=2;
+ssd_h=8;
+ssd_space=1;
 ssd_poke=20;
 
-h_wall=6;
+h_wall=3;
 h_bump=0.25;
 
 module drives()
